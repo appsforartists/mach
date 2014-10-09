@@ -165,6 +165,7 @@ var submodules = {
   bind:             './utils/bindApp',
   catch:            './middleware/catch',
   contentType:      './middleware/contentType',
+  contentCharSet:   './middleware/contentCharSet',
   errors:           './errors',
   favicon:          './middleware/favicon',
   file:             './middleware/file',
